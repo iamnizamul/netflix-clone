@@ -1,14 +1,16 @@
 .banner {
-    margin-top: 50px;
-    background-image: url('https://wallpaperaccess.com/full/2703652.png');
+    /* margin-top: 50px; */
     background-size: cover;
-    height: 448px;
+    /* height: 448px; */
+    height: 548px;
     color: #fff;
 }
 
 .content {
-    padding-top: 140px;
-    height: 190px;
+    /* padding-top: 140px; */
+    padding-top: 160px;
+    /* height: 190px; */
+    height: 270px;
     padding-left: 15px;
 }
 
@@ -41,7 +43,8 @@
     padding-top: 1rem;
     font-size: 1rem;
     height: 80px;
-    max-width: 360px;
+    /* max-width: 360px; */
+    max-width: 460px;
 }
 
 .fade_bottom {
